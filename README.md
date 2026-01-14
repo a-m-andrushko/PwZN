@@ -10,4 +10,6 @@
 
 ⋅ _Project6_ -- Dynamic web-scraping;
 
-⋅ _Project7_ -- Simulation of SIR (Susceptible, Infected, Removed) epidemic simulation using _NumPy_ and _SciPy_, and animating with _matplotlib_.
+⋅ _Project7_ -- Simulation of SIR (Susceptible, Infected, Removed) epidemic simulation using _NumPy_ and _SciPy_, and animating with _matplotlib_;
+
+⋅ _Project8_ -- Solving harmonic oscillator equations analytically with SymPy.
