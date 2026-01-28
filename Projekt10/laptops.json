@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Aspire E1-510",
+    "price": "$306.99",
+    "description": "15.6\", Pentium N3520 2.16GHz, 4GB, 500GB, Linux",
+    "url": "https://webscraper.io/test-sites/e-commerce/static/product/32"
+  },
+  {
+    "title": "ThinkPad T540p",
+    "price": "$1178.99",
+    "description": "15.6\", Core i5-4200M, 4GB, 500GB, Win7 Pro 64bit",
+    "url": "https://webscraper.io/test-sites/e-commerce/static/product/33"
+  },
+  {
+    "title": "ThinkPad X240",
+    "price": "$1311.99",
+    "description": "12.5\", Core i5-4300U, 8GB, 240GB SSD, Win7 Pro 64bit",
+    "url": "https://webscraper.io/test-sites/e-commerce/static/product/35"
+  },
+  {
+    "title": "Packard 255 G2",
+    "price": "$416.99",
+    "description": "15.6\", AMD E2-3800 1.3GHz, 4GB, 500GB, Windows 8.1",
+    "url": "https://webscraper.io/test-sites/e-commerce/static/product/31"
+  },
+  {
+    "title": "ProBook",
+    "price": "$739.99",
+    "description": "14\", Core i5 2.6GHz, 4GB, 500GB, Win7 Pro 64bit",
+    "url": "https://webscraper.io/test-sites/e-commerce/static/product/34"
+  },
+  {
+    "title": "Aspire E1-572G",
+    "price": "$581.99",
+    "description": "15.6\", Core i5-4200U, 8GB, 1TB, Radeon R7 M265, Windows 8.1",
+    "url": "https://webscraper.io/test-sites/e-commerce/static/product/36"
+  }
+]
