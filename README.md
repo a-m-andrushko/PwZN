@@ -14,4 +14,6 @@
 
 ⋅ _Project8_ -- Solving harmonic oscillator equations analytically with SymPy;
 
-⋅ _Project9_ -- Dynamic visualisation of SIR epidemic simulation with Bokeh.
+⋅ _Project9_ -- Dynamic visualisation of SIR epidemic simulation with Bokeh;
+
+⋅ _Project10_ -- Parallel static web-scraping with _ProcessPoolExecutor_.
